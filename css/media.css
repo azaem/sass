@@ -1,0 +1,1728 @@
+@media (max-width: 1200px) {
+    #hero .hero .hero--title {
+        margin: 22px -37px;
+    }
+
+    #header .navbar {
+        position: fixed;
+        background: #FFFFFF;
+        width: 96%;
+    }
+
+    #hero .hero--holy {
+        width: 470px;
+        height: 51px;
+        font-size: 39px;
+        color: #000000;
+    }
+
+    #hero .hero--holy--deck {
+        margin: 8px -162px;
+        width: 657px;
+        height: 19px;
+        font-size: 20px;
+        color: #000000;
+    }
+
+    #hero .hero--title {
+        margin: 22px -57px;
+    }
+
+    #hero .hero {
+        padding-top: 120px;
+        padding-left: 385px;
+    }
+
+    #about {
+        padding-top: 30px;
+        background: #000000;
+        height: 100px;
+    }
+
+    #drop .going--list {
+        text-align: center;
+        color: #000000;
+        width: 488px;
+        height: 38px;
+        font-size: 20px;
+        margin-left: 321px;
+    }
+
+    #drop .going--campus {
+        width: 143px;
+        height: 19px;
+        font-size: 15px;
+        text-align: center;
+        color: #000000;
+        margin-left: 484px;
+        padding-top: 60px;
+    }
+
+    #fends .meet {
+        width: 534px;
+        height: 305px;
+    }
+
+
+    #fends .dizzy {
+        margin-left: -134px;
+    }
+
+    #cloc .start {
+        margin-left: 364px;
+    }
+
+    #footer .start {
+        margin-left: 432px;
+    }
+}
+
+
+@media (max-width: 1024px) {
+    #header .navbar--items--item {
+        text-decoration: none;
+        margin: 0 3px;
+        height: 21px;
+        font-size: 18px;
+        color: #000000;
+    }
+
+    #hero .hero--holy--deck {
+        margin: 33px -153px;
+        width: 657px;
+        height: 19px;
+        font-size: 20px;
+        color: #000000;
+    }
+
+    #hero .hero--holy {
+        width: 470px;
+        height: 2px;
+        font-size: 38px;
+        color: #000000;
+    }
+
+    .deck {
+        margin: 33px -162px;
+        width: 657px;
+        height: 19px;
+        font-size: 20px;
+        color: #000000;
+
+    }
+
+    #obout .text {
+        padding-left: 63px;
+        width: 963px;
+        height: 36px;
+        font-size: 32px;
+        text-align: center;
+        color: #000000;
+    }
+
+    #obout .text--pit {
+        margin-left: 169px;
+        width: 685px;
+        height: 57px;
+        font-size: 15px;
+        text-align: center;
+        color: #000000;
+    }
+
+    #obout .stock--img {
+        width: 456px;
+    }
+
+    #obout .stock--honor {
+        padding: 0 30px;
+        width: 516px;
+    }
+
+    #obout .stock {
+        position: absolute;
+        margin-top: 237px;
+        margin-left: 96px;
+        width: 341px;
+        height: 30px;
+        font-size: 25px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    #obout .stock--shop {
+        position: absolute;
+        margin-top: 278px;
+        margin-left: 228px;
+        width: 68px;
+        height: 24px;
+        font-size: 18px;
+        color: #FFFFFF;
+    }
+
+    #drop .going--campus {
+        width: 143px;
+        height: 19px;
+        font-size: 15px;
+        text-align: center;
+        color: #000000;
+        margin-left: 398px;
+        padding-top: 60px;
+    }
+
+    #drop .going--list {
+        text-align: center;
+        color: #000000;
+        width: 488px;
+        height: 38px;
+        font-size: 20px;
+        margin-left: 238px;
+    }
+
+    #brow .body {
+        height: 370px;
+        width: 310px;
+        margin: 0 18px;
+    }
+
+    #brow .almost--single {
+        width: 283px;
+        height: 144px;
+        font-size: 16px;
+        line-height: 20px;
+        color: #000000;
+    }
+
+    #brow .brow--img {
+        height: 370px;
+        width: 310px;
+    }
+
+    #event .bot--img {
+        width: 320px;
+        height: 353px;
+    }
+
+    #event .bot--miles {
+        padding-left: 65px;
+        margin-top: -205px;
+        color: #FFFFFF;
+        height: 0;
+        font-size: 21px;
+        text-align: center;
+        margin-bottom: 57px;
+    }
+
+    #event .bot--break {
+        padding-left: 147px;
+        color: #FFFFFF;
+        font-size: 18px;
+    }
+
+    #fends .meet {
+        width: 451px;
+        height: 275px;
+    }
+
+    #footer .start {
+        margin-left: 176px;
+    }
+
+}
+
+
+@media (max-width: 992px) {
+    #hero .hero--holy--deck {
+        margin: 84px -162px;
+        width: 643px;
+        height: 2px;
+        font-size: 18px;
+        color: #000000;
+    }
+
+    #hero .hero--title {
+        margin: -20px -48px;
+    }
+
+    #hero .hero--holy--deck {
+        margin: 52px -162px;
+        width: 643px;
+        height: 2px;
+        font-size: 18px;
+        color: #000000;
+    }
+
+    #obout .stock--honor {
+        padding: 0 30px;
+        width: 500px;
+    }
+
+    #obout .stock--img {
+        width: 440px;
+    }
+
+    #fends .meet {
+        width: 422px;
+        height: 264px;
+    }
+
+    #header .navbar--items--item {
+        text-decoration: none;
+        margin: 14px 0;
+        height: 21px;
+        font-size: 18px;
+        color: #000000;
+    }
+}
+
+
+@media (max-width: 768px) {
+    #header .navbar--items--item {
+        text-decoration: none;
+        margin: 14px 9px;
+        height: 21px;
+        font-size: 9px;
+        color: #000000;
+    }
+
+    #hero .hero {
+        padding-top: 93px;
+        padding-left: 241px;
+    }
+
+    #hero .hero--holy {
+        width: 443px;
+        height: 1px;
+        font-size: 31px;
+        color: #000000;
+    }
+
+    #hero .hero--holy--deck {
+        margin: 52px -162px;
+        width: 643px;
+        height: 2px;
+        font-size: 15px;
+        color: #000000;
+    }
+
+    #hero .hero--title--btn {
+        Width: 151px;
+        height: 33px;
+        background: #FF4A32;
+        border-radius: 35px;
+        font-size: 13px;
+        color: #FFFFff;
+        border: none;
+    }
+
+    #about .about--img {
+        width: 137px;
+        height: 33px;
+    }
+
+    #obout .text {
+        padding-left: -11px;
+        width: 770px;
+        height: 30px;
+        font-size: 27px;
+        text-align: center;
+        color: #000000;
+    }
+
+    #obout .text {
+        padding-left: -11px;
+        width: 704px;
+        height: 30px;
+        font-size: 27px;
+        text-align: center;
+        color: #000000;
+    }
+
+    #obout .text--pit {
+        margin-left: 33px;
+        width: 685px;
+        height: 33px;
+        font-size: 13px;
+        text-align: center;
+        color: #000000;
+    }
+
+    #obout .stock--img {
+        width: 375px;
+        height: 376px;
+    }
+
+    #obout .stock--honor {
+        padding: 0 30px;
+        width: 394px;
+        height: 376px;
+    }
+
+    #obout .stock {
+        position: absolute;
+        margin-top: 176px;
+        margin-left: 45px;
+        width: 332px;
+        height: 30px;
+        font-size: 23px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    #obout .stock--shop {
+        position: absolute;
+        margin-top: 224px;
+        margin-left: 179px;
+        width: 68px;
+        height: 21px;
+        font-size: 18px;
+        color: #FFFFFF;
+    }
+
+    #drop .going--campus {
+        width: 143px;
+        height: 19px;
+        font-size: 15px;
+        text-align: center;
+        color: #000000;
+        margin-left: 283px;
+        padding-top: 60px;
+    }
+
+    #drop .going--list {
+        text-align: center;
+        color: #000000;
+        width: 488px;
+        height: 38px;
+        font-size: 20px;
+        margin-left: 117px;
+    }
+
+    #brow .brow--img {
+        height: 300px;
+        width: 245px;
+    }
+
+    #brow .body {
+        height: 300px;
+        width: 237px;
+        margin: 0 18px;
+    }
+
+    #brow .almost--single {
+        width: 198px;
+        height: 139px;
+        font-size: 13px;
+        line-height: 18px;
+        color: #000000;
+    }
+
+    #brow .almost--never {
+
+        height: 39px;
+        font-size: 22px;
+        color: #000000;
+    }
+
+    #event .bot--img {
+        width: 240px;
+        height: 291px;
+    }
+
+    #event .bot--miles {
+        padding-left: 65px;
+        margin-top: -183px;
+        color: #FFFFFF;
+        height: 0;
+        font-size: 15px;
+        text-align: center;
+        margin-bottom: 57px;
+    }
+
+    #event {
+        margin-top: 1px;
+    }
+
+    #fends .meet {
+        width: 322px;
+        height: 207px;
+    }
+
+    #fends {
+        margin-top: -85px;
+        padding: 190px;
+    }
+
+    #tooth {
+        margin-top: 20px;
+        height: 209px;
+        background: #000000;
+        color: #FFFFFF;
+    }
+
+    #tooth .adapter {
+        width: 176px;
+        height: 85px;
+        font-size: 11px;
+        line-height: 15px;
+        color: #FFFFFF;
+    }
+
+    #tooth .auks {
+        width: 174px;
+        height: 36px;
+        font-size: 11px;
+        color: #FFFFFF;
+    }
+
+    #tooth .asha {
+        width: 168px;
+        height: 45px;
+        font-size: 11px;
+        line-height: 18px;
+        color: #FFFFFF;
+    }
+
+    #tooth .apa {
+        width: 203px;
+        height: 22px;
+        font-size: 11px;
+        color: #FFFFFF;
+        line-height: 11px;
+    }
+
+    #tooth .java {
+        width: 109px;
+        height: 36px;
+        font-size: 27px;
+        line-height: 36px;
+        text-align: center;
+        color: #FFFFFF;
+        margin-left: 30px;
+    }
+
+    #tooth .last {
+        width: 268px;
+        height: 45px;
+        font-size: 26px;
+        color: #FFFFFF;
+    }
+
+    #cloc .cloc--center {
+        padding-top: 23px;
+        height: 21px;
+        font-size: 11px;
+        line-height: 9px;
+        color: #000000;
+    }
+
+    #cloc .cloc--Boosted {
+        padding-top: 30px;
+        font-size: 9px;
+        line-height: 16px;
+        color: #000000;
+    }
+
+    #cloc .cloc--Boosted--lor {
+        height: 6px;
+        left: 0;
+        font-size: 9px;
+        line-height: 17px;
+        color: #000000;
+    }
+
+    #cloc {
+        margin-bottom: 0;
+        height: 287px;
+        color: black;
+        background: #F7F7F7;
+    }
+
+    #cloc .usa {
+        height: 30px;
+        font-size: 19px;
+        line-height: 30px;
+        color: #000000;
+    }
+
+    #footer .nota {
+        display: flex;
+        height: 17px;
+        font-size: 8px;
+        line-height: 19px;
+        color: #000000;
+    }
+}
+
+@media (max-width: 576px) {
+    #header .navbar--img {
+        width: 107px;
+        height: 30px;
+    }
+
+    #header .navbar--items--item {
+        text-decoration: none;
+        margin: 12px 2px;
+        height: 16px;
+        font-size: 7px;
+        color: #000000;
+    }
+
+    #hero .hero--holy {
+        width: 294px;
+        font-size: 24px;
+        color: #000000;
+    }
+
+    #hero .hero--holy--deck {
+        margin: 52px -162px;
+        width: 457px;
+        height: 1px;
+        font-size: 13px;
+        color: #000000;
+    }
+
+    #hero .hero--title--btn {
+        Width: 102px;
+        height: 33px;
+        background: #FF4A32;
+        border-radius: 35px;
+        font-size: 9px;
+        color: #FFFFff;
+        border: none;
+    }
+
+    #about .about--img {
+        width: 91px;
+        height: 29px;
+    }
+
+    #about {
+        padding-top: 9px;
+        background: #000000;
+        height: 54px;
+    }
+
+    #obout .stock--img {
+        width: 263px;
+        height: 315px;
+    }
+
+    #obout .stock--honor {
+        padding: 0 9px;
+        width: 278px;
+        height: 315px;
+    }
+
+    #obout .stock {
+        position: absolute;
+        margin-top: 135px;
+        margin-left: 45px;
+        width: 233px;
+        height: 21px;
+        font-size: 17px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    #obout .stock--shop {
+        position: absolute;
+        margin-top: 163px;
+        margin-left: 135px;
+        width: 63px;
+        height: 21px;
+        font-size: 15px;
+        color: #FFFFFF;
+    }
+
+    #obout .text {
+        padding-left: -11px;
+        width: 502px;
+        height: 22px;
+        font-size: 21px;
+        text-align: center;
+        color: #000000;
+    }
+
+    #obout .text--pit {
+        margin-left: 33px;
+        width: 477px;
+        height: 33px;
+        font-size: 11px;
+        text-align: center;
+        color: #000000;
+    }
+
+    #obout {
+        margin-top: 23px;
+    }
+
+    #drop .going--list {
+        text-align: center;
+        color: #000000;
+        width: 422px;
+        height: 38px;
+        font-size: 18px;
+        margin-left: 63px;
+    }
+
+    #drop .going--campus {
+        width: 113px;
+        height: 19px;
+        font-size: 13px;
+        text-align: center;
+        color: #000000;
+        margin-left: 215px;
+        padding-top: 60px;
+    }
+
+    #brow .brow--img {
+        height: 262px;
+        width: 165px;
+    }
+
+    #brow .body {
+        height: 262px;
+        width: 165px;
+        margin: 0 1px;
+    }
+
+    #brow .almost {
+        margin: 21px;
+    }
+
+    #brow .almost--single {
+        width: 156px;
+        height: 139px;
+        font-size: 13px;
+        line-height: 13px;
+        color: #000000;
+    }
+
+    #brow .almost--never {
+        height: 39px;
+        font-size: 19px;
+        color: #000000;
+    }
+
+    #brow .almost .curve--design {
+        width: 57px;
+        height: 27px;
+        background: #FF4A32;
+        border-radius: 35px;
+        font-size: 10px;
+    }
+
+    #event .bot--img {
+        width: 180px;
+        height: 231px;
+    }
+
+    #event .bot--miles {
+        padding-left: 65px;
+        margin-top: -139px;
+        color: #FFFFFF;
+        height: 0;
+        font-size: 9px;
+        text-align: center;
+        margin-bottom: 48px;
+    }
+
+    #fends {
+        margin-top: -104px;
+        padding: 184px;
+    }
+
+    #event .bot--break {
+        padding-left: 98px;
+        color: #FFFFFF;
+        font-size: 10px;
+        margin-top: -25px;
+    }
+
+    #fends .meet {
+        width: 243px;
+        height: 178px;
+        margin-top: 30px;
+        margin-left: -22px;
+    }
+
+    #bron .level {
+        font-size: 27px;
+        margin-top: -156px;
+        text-align: center;
+        width: 563px;
+    }
+
+    #tooth .adapter {
+        width: 127px;
+        height: 85px;
+        font-size: 9px;
+        line-height: 13px;
+        color: #FFFFFF;
+    }
+
+    #tooth .fox {
+        padding-left: 16px;
+    }
+
+    #tooth .java {
+        width: 109px;
+        height: 36px;
+        font-size: 24px;
+        line-height: 36px;
+        text-align: center;
+        color: #FFFFFF;
+        margin-left: 5px;
+    }
+
+    #tooth .auks {
+        width: 139px;
+        height: 23px;
+        font-size: 9px;
+        color: #FFFFFF;
+    }
+
+    #tooth .asha {
+        width: 136px;
+        height: 37px;
+        font-size: 9px;
+        line-height: 13px;
+        color: #FFFFFF;
+    }
+
+    #tooth .apa {
+        width: 163px;
+        height: 19px;
+        font-size: 9px;
+        color: #FFFFFF;
+        line-height: 14px;
+        margin-top: -17px;
+    }
+
+    #tooth .last {
+        width: 268px;
+        height: 45px;
+        font-size: 21px;
+        color: #FFFFFF;
+        margin-top: 7px;
+    }
+
+    #cloc .cloc--center {
+        padding-top: 23px;
+        height: 21px;
+        font-size: 9px;
+        line-height: 2px;
+        color: #000000;
+    }
+
+    #cloc .usa {
+        height: 30px;
+        font-size: 17px;
+        line-height: 25px;
+        color: #000000;
+    }
+
+    #cloc .cloc--Boosted .cloc--test {
+        line-height: 10px;
+        font-size: 9px;
+        width: 168px;
+        height: 57px;
+    }
+
+    #cloc .cloc--Boosted--lor {
+        height: 1px;
+        left: 0;
+        font-size: 9px;
+        line-height: 10px;
+        color: #000000;
+    }
+
+    #cloc .cloc--commute {
+        padding-top: 31px;
+        width: 100px;
+    }
+
+    #cloc {
+        margin-bottom: 0;
+        height: 217px;
+        color: black;
+        background: #F7F7F7;
+    }
+
+    #footer .start {
+        margin-left: 1px;
+    }
+
+    #footer .nota {
+        display: flex;
+        height: 11px;
+        font-size: 8px;
+        line-height: 28px;
+        color: #000000;
+    }
+
+    #footer {
+        padding-top: 0;
+        display: flex;
+        background: #fff3cd;
+        color: black;
+    }
+
+}
+
+@media (max-width: 415px) {
+    #header .navbar--img {
+        width: 64px;
+        height: 17px;
+    }
+
+    #header .navbar--items--item {
+        text-decoration: none;
+        margin: 0 2px;
+        height: 9px;
+        font-size: 4px;
+        color: #000000;
+    }
+
+    #hero .hero--holy {
+        width: 240px;
+        font-size: 20px;
+        color: #000000;
+        margin-left: -145px;
+    }
+
+    #hero .hero--holy--deck {
+        margin: 33px -240px;
+        width: 457px;
+        height: 1px;
+        font-size: 10px;
+        color: #000000;
+        margin-top: 30px;
+    }
+
+    #hero .hero--title--btn {
+        margin-left: -5px;
+        Width: 58px;
+        height: 15px;
+        background: #FF4A32;
+        border-radius: 35px;
+        font-size: 6px;
+        color: #FFFFff;
+        border: none;
+        scroll-padding-left: 24px;
+    }
+
+    #header .navbar {
+        height: 36px;
+        position: fixed;
+        background: #FFFFFF;
+        width: 96%;
+    }
+
+    #about .about--img {
+        width: 72px;
+        height: 24px;
+    }
+
+    #about {
+        padding-top: 7px;
+        background: #000000;
+        height: 45px;
+    }
+
+    #obout .text {
+        padding-left: -11px;
+        width: 350px;
+        height: 15px;
+        font-size: 13px;
+        text-align: center;
+        color: #000000;
+    }
+
+    #obout .text--pit {
+        margin-left: 33px;
+        width: 338px;
+        height: 8px;
+        font-size: 9px;
+        text-align: center;
+        color: #000000;
+    }
+
+    #obout .stock--honor {
+        padding: 0 9px;
+        width: 194px;
+        height: 237px;
+    }
+
+    #obout .stock--img {
+        width: 207px;
+        height: 237px;
+    }
+
+    #obout .stock {
+        position: absolute;
+        margin-top: 103px;
+        margin-left: -5px;
+        width: 233px;
+        height: 21px;
+        font-size: 14px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    #obout .stock--shop {
+        position: absolute;
+        margin-top: 127px;
+        margin-left: 91px;
+        width: 58px;
+        height: 17px;
+        font-size: 12px;
+        color: #FFFFFF;
+    }
+
+    #drop .going--never {
+        text-align: center;
+        color: #000000;
+        margin-left: 51PX;
+        font-size: 23px;
+    }
+
+    #drop .going--campus {
+        width: 113px;
+        height: 19px;
+        font-size: 11px;
+        text-align: center;
+        color: #000000;
+        margin-left: 175px;
+        padding-top: 60px;
+    }
+
+    #drop .going--list {
+        text-align: center;
+        color: #000000;
+        width: 315px;
+        height: 38px;
+        font-size: 14px;
+        margin-left: 63px;
+    }
+
+    #brow .brow--img {
+        height: 189px;
+        width: 117px;
+    }
+
+    #brow .body {
+        height: 189px;
+        width: 117px;
+        margin: 0 -9px;
+    }
+
+    #brow .almost--single {
+        width: 93px;
+        height: 64px;
+        font-size: 7px;
+        line-height: 8px;
+        color: #000000;
+        margin-left: -35px;
+    }
+
+    #brow .almost--never {
+        height: 39px;
+        font-size: 12px;
+        color: #000000;
+        margin-left: -26px;
+    }
+
+    #brow .almost .curve--design {
+        width: 51px;
+        height: 19px;
+        background: #FF4A32;
+        border-radius: 35px;
+        font-size: 7px;
+        margin-left: -39px;
+    }
+
+    #event .bot--img {
+        width: 139px;
+        height: 180px;
+    }
+
+    #event .bot--miles {
+        padding-left: 64px;
+        margin-top: -113px;
+        color: #FFFFFF;
+        height: 0;
+        font-size: 5px;
+        text-align: center;
+        margin-bottom: 31px;
+    }
+
+    #event .bot--break {
+        padding-left: 76px;
+        color: #FFFFFF;
+        font-size: 6px;
+        margin-top: -25px;
+    }
+
+    #fends .meet {
+        width: 166px;
+        height: 148px;
+        margin-top: 30px;
+        margin-left: -22px;
+    }
+
+    #fends .meets {
+        width: 166px;
+        height: 148px;
+        margin-top: -176px;
+        margin-left: -11px;
+        /* width: 540px; */
+        /* height: 304px; */
+    }
+
+    #bron .level {
+        font-size: 18px;
+        margin-top: -156px;
+        text-align: center;
+        width: 431px;
+    }
+
+    #tooth .fox {
+        padding-left: 6px;
+
+    }
+
+    #tooth .java {
+        width: 79px;
+        height: 28px;
+        font-size: 17px;
+        line-height: 36px;
+        text-align: center;
+        color: #FFFFFF;
+        margin-left: 5px;
+    }
+
+    #tooth .adapter {
+        width: 99px;
+        height: 76px;
+        font-size: 7px;
+        line-height: 11px;
+        color: #FFFFFF;
+    }
+
+    #tooth .auks {
+        width: 97px;
+        height: 13px;
+        font-size: 7px;
+        color: #FFFFFF;
+    }
+
+    #tooth .asha {
+        width: 100px;
+        height: 28px;
+        font-size: 7px;
+        line-height: 11px;
+        color: #FFFFFF;
+    }
+
+    #tooth .last {
+        width: 152px;
+        height: 35px;
+        font-size: 17px;
+        color: #FFFFFF;
+        margin-top: 7px;
+    }
+
+    #tooth .apa {
+        width: 97px;
+        height: 17px;
+        font-size: 7px;
+        color: #FFFFFF;
+        line-height: 14px;
+        margin-top: -17px;
+    }
+
+    #cloc .cloc--center {
+        padding-top: 21px;
+        height: 18px;
+        font-size: 7px;
+        line-height: 0;
+        color: #000000;
+    }
+
+    #cloc .cloc--Boosted .cloc--test {
+        line-height: 7px;
+        font-size: 7px;
+        width: 114px;
+        height: 56px;
+    }
+
+    #cloc .usa {
+        height: 30px;
+        font-size: 14px;
+        line-height: 25px;
+        color: #000000;
+    }
+
+    #cloc .cloc--Boosted--lor {
+        height: 1px;
+        left: 0;
+        font-size: 7px;
+        line-height: 10px;
+        color: #000000;
+    }
+
+    #footer .start {
+        margin-left: 149px;
+    }
+
+    #footer .start {
+        margin-left: 148px;
+    }
+}
+
+@media (max-width: 376px) {
+    #hero .hero--holy {
+        width: 199px;
+        font-size: 17px;
+        color: #000000;
+        margin-left: -145px;
+    }
+
+    #header .navbar--items--item {
+        text-decoration: none;
+        margin: 0 4px;
+        height: 5px;
+        font-size: 4px;
+        color: #000000;
+    }
+
+    #hero .hero--holy--deck {
+        margin: 33px -275px;
+        width: 457px;
+        height: 1px;
+        font-size: 7px;
+        color: #000000;
+        margin-top: 30px;
+    }
+
+    #hero .hero .hero--title--btn {
+        Width: 58px;
+        height: 17px;
+        background: #FF4A32;
+        border-radius: 35px;
+        font-size: 6px;
+        color: #FFFFff;
+        border: none;
+    }
+
+    #hero .hero .hero--title {
+        margin: -21px -102px;
+    }
+
+    #about .about--img {
+        width: 57px;
+        height: 18px;
+    }
+
+    #about {
+        padding-top: 5px;
+        background: #000000;
+        height: 34px;
+    }
+
+    #obout .text {
+        padding-left: -11px;
+        width: 295px;
+        height: 15px;
+        font-size: 9px;
+        text-align: center;
+        color: #000000;
+    }
+
+    #obout .text--pit {
+        margin-left: 33px;
+        width: 282px;
+        height: 0;
+        font-size: 7px;
+        text-align: center;
+        color: #000000;
+    }
+
+    #obout .stock--img {
+        width: 169px;
+        height: 199px;
+    }
+
+    #obout .stock--honor {
+        padding: 0 0;
+        width: 169px;
+        height: 199px;
+    }
+
+    #obout .stock {
+        position: absolute;
+        margin-top: 103px;
+        margin-left: -5px;
+        width: 209px;
+        font-size: 10px;
+        text-align: center;
+        color: #FFFFFF;
+        line-height: 10px;
+    }
+
+    #obout .stock--shop {
+        position: absolute;
+        margin-top: 119px;
+        margin-left: 83px;
+        width: 58px;
+        height: 17px;
+        font-size: 9px;
+        color: #FFFFFF;
+    }
+
+    #drop .going--campus {
+        width: 73px;
+        height: 19px;
+        font-size: 8px;
+        text-align: center;
+        color: #000000;
+        margin-left: 163px;
+        padding-top: 60px;
+    }
+
+    #drop .going--list {
+        text-align: center;
+        color: #000000;
+        width: 315px;
+        height: 38px;
+        font-size: 14px;
+        margin-left: 50px;
+    }
+
+    #brow .brow--img {
+        height: 150px;
+        width: 100px;
+    }
+
+    #brow .body {
+        height: 150px;
+        width: 100px;
+        margin: 0 -16px;
+    }
+
+    #brow .almost--single {
+        width: 113px;
+        height: 62px;
+        font-size: 5px;
+        line-height: 10px;
+        color: #000000;
+        margin-left: -35px;
+        margin-top: -32px;
+    }
+
+    #brow .almost--never {
+        height: 39px;
+        font-size: 9px;
+        color: #000000;
+        margin-left: -26px;
+        /* margin-top: 0px; */
+    }
+
+    .single {
+        width: 113px;
+        height: 62px;
+        font-size: 5px;
+        line-height: 10px;
+        color: #000000;
+        margin-left: -35px;
+        margin-top: -32px;
+        margin-bottom: -5px;
+    }
+
+    #brow {
+        margin-top: 10px;
+    }
+
+    #event .bot--img {
+        width: 126px;
+        height: 153px;
+    }
+
+    #event .bot--miles {
+        padding-left: 20px;
+        margin-top: -93px;
+        color: #FFFFFF;
+        height: 0;
+        font-size: 5px;
+        text-align: center;
+        margin-bottom: 31px;
+    }
+
+    #event .bot--break {
+        padding-left: 50px;
+        color: #FFFFFF;
+        font-size: 6px;
+        margin-top: -23px;
+    }
+
+    #fends {
+        margin-top: -136px;
+        padding: 184px;
+    }
+
+    #fends .meet {
+        width: 166px;
+        height: 148px;
+        margin-top: 30px;
+        margin-left: -37px;
+    }
+
+    #fends .meets {
+        width: 166px;
+        height: 148px;
+        margin-top: -176px;
+        margin-left: -29px;
+        /* width: 540px; */
+        /* height: 304px; */
+    }
+
+    #bron .level {
+        font-size: 16px;
+        margin-top: -176px;
+        text-align: center;
+        width: 374px;
+    }
+
+    #tooth .java {
+        width: 79px;
+        height: 28px;
+        font-size: 15px;
+        line-height: 36px;
+        text-align: center;
+        color: #FFFFFF;
+        margin-left: 5px;
+    }
+
+    #tooth .adapter {
+        width: 81px;
+        height: 76px;
+        font-size: 5px;
+        line-height: 11px;
+        color: #FFFFFF;
+    }
+
+    #tooth .auks {
+        width: 78px;
+        height: 76px;
+        font-size: 5px;
+        color: #FFFFFF;
+        line-height: 11px;
+    }
+
+    #tooth .asha {
+        width: 89px;
+        height: 28px;
+        font-size: 5px;
+        line-height: 11px;
+        color: #FFFFFF;
+    }
+
+    #tooth .last {
+        width: 111px;
+        height: 35px;
+        font-size: 15px;
+        color: #FFFFFF;
+        margin-top: 7px;
+        line-height: 20px;
+    }
+
+    #tooth .apa {
+        width: 82px;
+        height: 17px;
+        font-size: 7px;
+        color: #FFFFFF;
+        line-height: 11px;
+        margin-top: -17px;
+    }
+
+    #tooth {
+        margin-top: 20px;
+        height: 174px;
+        background: #000000;
+        color: #FFFFFF;
+    }
+
+    #cloc .cloc--commute {
+        padding-top: 31px;
+        width: 84px;
+    }
+
+    #cloc .cloc--center {
+        padding-top: 28px;
+        font-size: 5px;
+        line-height: 0;
+        color: #000000;
+    }
+
+    #cloc .usa {
+        height: 30px;
+        font-size: 11px;
+        line-height: 25px;
+        color: #000000;
+    }
+
+    #cloc {
+        margin-bottom: 0;
+        height: 201px;
+        color: black;
+        background: #F7F7F7;
+    }
+
+    #footer .nota {
+        display: flex;
+        font-size: 3px;
+        line-height: 10px;
+        color: #000000;
+    }
+
+}
+
+@media (max-width: 320px) {
+    #header .navbar--img {
+        width: 48px;
+        height: 17px;
+    }
+
+    #header .navbar--items--item {
+        text-decoration: none;
+        margin: 0 6px;
+        height: 5px;
+        font-size: 2px;
+        color: #000000;
+    }
+
+    #hero .hero {
+        padding-top: 93px;
+        padding-left: 199px;
+    }
+
+    #about .about--img {
+        width: 47px;
+        height: 16px;
+    }
+
+    #about {
+        padding-top: 1px;
+        background: #000000;
+        height: 26px;
+    }
+
+    #obout {
+        margin-top: 13px;
+    }
+
+    #obout .text {
+        padding-left: -11px;
+        width: 251px;
+        height: 15px;
+        font-size: 9px;
+        text-align: center;
+        color: #000000;
+    }
+
+    #obout .text--pit {
+        margin-left: 10px;
+        width: 282px;
+        height: 0;
+        font-size: 7px;
+        text-align: center;
+        color: #000000;
+    }
+
+    #obout .stock--img {
+        width: 145px;
+        height: 170px;
+    }
+
+    #obout .stock--honor {
+        padding: 0 0;
+        width: 144px;
+        height: 170px;
+    }
+
+    #obout .stock {
+        position: absolute;
+        margin-top: 80px;
+        margin-left: -22px;
+        width: 209px;
+        font-size: 10px;
+        text-align: center;
+        color: #FFFFFF;
+        line-height: 10px;
+    }
+
+    #obout .stock--shop {
+        position: absolute;
+        margin-top: 97px;
+        margin-left: 66px;
+        width: 58px;
+        height: 17px;
+        font-size: 9px;
+        color: #FFFFFF;
+    }
+
+    #drop .going--list {
+        text-align: center;
+        color: #000000;
+        width: 254px;
+        height: 38px;
+        font-size: 12px;
+        margin-left: 50px;
+    }
+
+    #drop .going--never {
+        text-align: center;
+        color: #000000;
+        margin-left: 41PX;
+        font-size: 23px;
+    }
+
+    #drop .going--campus {
+        width: 73px;
+        height: 19px;
+        font-size: 8px;
+        text-align: center;
+        color: #000000;
+        margin-left: 137px;
+        padding-top: 60px;
+    }
+
+    #brow .brow--img {
+        height: 140px;
+        width: 85px;
+    }
+
+    #brow .body {
+        height: 140px;
+        width: 92px;
+        margin: 0 -16px;
+    }
+
+    #brow .almost--single {
+        width: 95px;
+        height: 49px;
+        font-size: 5px;
+        line-height: 10px;
+        color: #000000;
+        margin-left: -35px;
+        margin-top: -32px;
+    }
+
+    #event .bot--miles {
+        padding-left: 37px;
+        margin-top: -85px;
+        color: #FFFFFF;
+        height: 0;
+        font-size: 5px;
+        text-align: center;
+        margin-bottom: 31px;
+    }
+
+    #event .bot--break {
+        padding-left: 51px;
+        color: #FFFFFF;
+        font-size: 4px;
+        margin-top: -23px;
+    }
+
+    #fends .meet {
+        width: 125px;
+        height: 130px;
+        margin-top: 25px;
+        margin-left: -37px;
+    }
+
+    #fends .meets {
+        width: 121px;
+        height: 133px;
+        margin-top: -152px;
+        margin-left: -50px;
+        /* width: 540px; */
+        /* height: 304px; */
+    }
+
+    #bron .level {
+        font-size: 15px;
+        margin-top: -176px;
+        text-align: center;
+        width: 303px;
+    }
+
+    #tooth .java {
+        width: 79px;
+        height: 28px;
+        font-size: 13px;
+        line-height: 36px;
+        text-align: center;
+        color: #FFFFFF;
+        margin-left: 2px;
+    }
+
+    #tooth .adapter {
+        width: 72px;
+        height: 76px;
+        font-size: 5px;
+        line-height: 11px;
+        color: #FFFFFF;
+    }
+
+    #tooth .apa {
+        width: 62px;
+        height: 17px;
+        font-size: 5px;
+        color: #FFFFFF;
+        line-height: 11px;
+        margin-top: -17px;
+    }
+
+    #tooth .last {
+        width: 82px;
+        height: 35px;
+        font-size: 13px;
+        color: #FFFFFF;
+        margin-top: 7px;
+        line-height: 20px;
+    }
+
+    #tooth .fox {
+        padding-left: 0;
+    }
+
+    #cloc .usa {
+        height: 30px;
+        font-size: 9px;
+        line-height: 25px;
+        color: #000000;
+    }
+
+    #cloc .cloc--Boosted .cloc--test {
+        line-height: 7px;
+        font-size: 7px;
+        width: 114px;
+        height: 37px;
+    }
+
+    #cloc .cloc--Boosted--lor {
+        height: 1px;
+        left: 0;
+        font-size: 5px;
+        line-height: 12px;
+        color: #000000;
+    }
+
+    #footer .start {
+        margin-left: 95px;
+    }
+
+}
